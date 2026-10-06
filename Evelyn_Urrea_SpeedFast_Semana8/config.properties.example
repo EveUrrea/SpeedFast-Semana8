@@ -1,0 +1,4 @@
+# Copia este archivo como config.properties y completa tu clave local.
+db.url=jdbc:mysql://localhost:3306/speedfast_db?serverTimezone=America/Santiago&useSSL=false&allowPublicKeyRetrieval=true
+db.user=root
+db.password=CAMBIA_AQUI_TU_CLAVE
